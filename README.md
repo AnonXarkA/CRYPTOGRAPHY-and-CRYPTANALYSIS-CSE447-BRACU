@@ -111,4 +111,10 @@ attacker has access to the database, unable to retrieve any data.
 8. [OPTIONAL] Integrity check using MAC.
 
 
+Ans: ⚡ <a href="https://github.com/AnonXarkA/CRYPTOGRAPHY-and-CRYPTANALYSIS-CSE447-BRACU/tree/main/Project">Project</a> <br>
+
+
+
+
+
 

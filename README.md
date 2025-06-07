@@ -90,3 +90,25 @@ Encoding and Decoding: The processes of hiding the message in the image and extr
 Feel free to explore the notebooks and code to learn more about each cryptographic concept.
 
 
+
+# 🚀 CSE447 Lab project
+
+This final project involves developing a secure web application that implements various cryptographic concepts learned throughout the course. The goal is to build a system that protects user data both at rest and in transit.
+
+Develop/reuse existing system/app/webpage with the following features:
+
+Core Requirements:
+
+1. There will be 2 options: Login and Register. Users can login/Register to the system.
+2. While registering, userinfo should be encrypted (while storing) and decrypted (while
+viewing).
+3. Password should be hashed and salted before storing in the database.
+4. Separate function for credential check.
+5. A key management module should be defined.
+6. Users can post/view using encryption and decryption.
+7. Every major piece of information in the database should be encrypted. I.e. if an
+attacker has access to the database, unable to retrieve any data.
+8. [OPTIONAL] Integrity check using MAC.
+
+
+
